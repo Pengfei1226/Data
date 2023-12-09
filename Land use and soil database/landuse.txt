@@ -1,0 +1,7 @@
+"Value","Landuse"
+1,AGRL
+2,FRST
+3,PAST
+4,WATR
+5,URLD
+6,BARR
