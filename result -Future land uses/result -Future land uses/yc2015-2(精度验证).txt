@@ -1,0 +1,8 @@
+Image Similarity / Association Data
+-----------------------------------
+
+   Chi Square =24274870.00000
+           df =       25
+           P-Level =   0.0000
+   Cramer's V =        0.7397
+       Kappa =        0.9652
